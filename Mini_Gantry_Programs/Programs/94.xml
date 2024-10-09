@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DTRobot>
+  <ProgramParameterInfo ProgramNumber="94" ProgramName="TEST0PCB0FN" XYMoveSpeed="350" ZMoveSpeed="120" DeBugSpeed="10" BackHome="False" SoftX="0" SoftY="0" SoftZ="0" SoftU="0" SoftV="0" SoftW="0" AdjustX="0" AdjustY="0" AdjustZ="0" AutoPurgeTime="0" AutoPurgeWaitTime="0" TempCommand1="0" TempCommand2="0" TempX1="224.551" TempY1="33.618" TempZ1="62.7685" TempX2="128.345" TempY2="138.449" TempZ2="62.465" ZLimit="63.9215" EMG="False" Quickstep="False" QuickstepType="Normal" DefaultLIO="0" Password="5678" Lock="False" Beep="True" DisplayRunCount="True" DefineRunCount="0" RunCount="2" PausePosition="Stand" RunnProgramNumbers="94" IsRecordPick="True" PickIndex="1" StepsIndex="" IsRecordStep="False" TipFinderType="1" TipFinderLoop="1" TipFinderAction="2" TipFinderCenterX="0" TipFinderCenterY="0" TipFinderCenterZ="0" TipFinderStandardX="0" TipFinderStandardY="0" TipFinderStandardZ="0" />
+  <CommandInfo Index="1" Function="Line_Speed" Values="30,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="2" Function="Line_Start" Values="224.551,33.618,61.6485,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="3" Function="Dispense_OnOff" Values="0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="4" Function="Wait_Point" Values="4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="5" Function="Line_Passing" Values="224.551,33.618,0.962,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="6" Function="Line_Passing" Values="128.34143190485,138.452887979779,61.345,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="7" Function="Wait_Point" Values="4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="8" Function="Line_End" Values="146.552896755873,169.903397131602,4.542,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="9" Function="Z_Clearance" Values="1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="10" Function="Point_Dispense_Setup" Values="0.3,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="11" Function="Line_Dispense_Setup" Values="0.5,0.5,0.5,1.4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="12" Function="Retract_Setup" Values="1,15,7,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="13" Function="Dispense_OnOff" Values="1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="14" Function="Line_Speed" Values="1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="15" Function="Line_Start" Values="250.160301665273,26.5803712860561,62.806,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="16" Function="Line_End" Values="251.527617011803,25.6500527840886,62.1255,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="17" Function="Line_Speed" Values="1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="18" Function="Line_Start" Values="292.330360758033,98.589462900395,61.9915,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="19" Function="Line_End" Values="293.616495878181,97.6785430774777,62.3195,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="20" Function="Line_Speed" Values="1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="21" Function="Line_Start" Values="242.596355721572,184.990078244186,61.962,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="22" Function="Line_End" Values="242.431510212686,186.93809170442,62.3825,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="23" Function="Line_Speed" Values="1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="24" Function="Line_Start" Values="158.979125661769,185.131652040477,62.0745,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="25" Function="Line_End" Values="158.918234068088,187.247845537944,62.2695,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="26" Function="Line_Speed" Values="1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="27" Function="Line_Start" Values="108.870343168907,99.061746246725,61.5125,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="28" Function="Line_End" Values="107.621910932835,98.3838313318374,62.846,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="29" Function="Line_Speed" Values="1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="30" Function="Line_Start" Values="150.58448069842,26.5393197829907,61.6785,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="31" Function="Line_End" Values="148.99776378679,25.5139021178254,62.607,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+  <CommandInfo Index="32" Function="End_Program" Values="-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1" TempValues="" />
+</DTRobot>
